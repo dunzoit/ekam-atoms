@@ -67,7 +67,7 @@ publishing {
 
     repositories {
         maven {
-            url "artifactregistry://asia-south1-maven.pkg.dev/dev-application-294611/maven-qe"/
+            url "artifactregistry://asia-south1-maven.pkg.dev/dev-application-294611/maven-qe"
 //            credentials {
 //                username System.getenv("sonatypeUsername")
 //                password System.getenv("sonatypePassword")
